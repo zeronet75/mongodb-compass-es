@@ -1,0 +1,13 @@
+# Node.js portable: se descarga automaticamente al instalar; no se versiona (90 MB)
+runtime/node/node.exe
+runtime/node/*.zip
+
+# Artefactos de compilacion
+gui/*.obj
+gui/*.res
+gui/frames/
+
+# Sistema
+Thumbs.db
+desktop.ini
+*.log
