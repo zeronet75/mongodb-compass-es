@@ -17,6 +17,12 @@ Traduccion al español de la interfaz de **MongoDB Compass para Windows**, sin t
 - Copia de seguridad automatica del `app.asar` original y script de reversion.
 - Actualizable: se vuelve a aplicar tras cada actualizacion de Compass.
 
+## Descarga portable
+
+**[Descargar mongodb-compass-es-1.0.0-portable.zip](https://github.com/zeronet75/mongodb-compass-es/releases/latest)** (~35 MB)
+
+Incluye **todo** (tambien Node.js 24.22.3 LTS): descomprime el ZIP donde quieras y ejecuta `CompassES.exe`. No hay que instalar nada.
+
 ## Inicio rapido
 
 1. Descarga el repositorio (**Code → Download ZIP**) y descomprimelo donde quieras.
